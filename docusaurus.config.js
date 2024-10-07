@@ -58,7 +58,7 @@ const config = {
       {
         redirects: [
           {
-            to: '/k3d/quick-start/install',
+            to: 'https://kubefirst.konstruct.io/docs/k3d/quick-start/install',
             from: [
               '/kubefirst/local/github/install',
               '/kubefirst/local/gitlab/install',
